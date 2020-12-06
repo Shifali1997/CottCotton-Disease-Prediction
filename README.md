@@ -1,1 +1,1 @@
-# CottCotton-Disease-Prediction
+# Cotton-Disease-Prediction
